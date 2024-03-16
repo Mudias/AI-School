@@ -1,5 +1,4 @@
 <h1>AI SCHOOL</h1>
-<h2>Work in progress, may not represent final product</h2>
 
 <h2>Description</h2>
 I made the UI for an AI School game project. In the game, you are a student that goes to a primary school with AI-driven teachers and you have a tablet where you can check your schedule, the classes, your objectives and solve exam problems.
